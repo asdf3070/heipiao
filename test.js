@@ -1,3 +1,3 @@
 function get(){
-	console.info("ABC");
+	console.info("ABCd");
 }
